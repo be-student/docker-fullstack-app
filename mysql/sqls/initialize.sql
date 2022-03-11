@@ -8,3 +8,4 @@ CREATE TABLE lists (
     value TEXT,
     PRIMARY KEY (id)
 );
+
